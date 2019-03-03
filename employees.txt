@@ -1,0 +1,4 @@
+Saeed	10000.0	Mary,Todd	Federal:.20,State:.08	1000 Main Ave.,Minneapolis,MN,55555
+Brad	15000.0	Mary,Adam,Todd	Federal:.25,State:.08	123 Jack St.,Edina,MN,55555
+Fred	11500.0	Susan	Federal:.15,State:.08	200 Grand Ave.,St. Paul,MN,55111
+Doug	2000.0	Cory,Bill	Federal:.22,State:.02	950 Ford St.,Phoenix,AZ,66534
